@@ -1,0 +1,1 @@
+This script scrapes the TVTropes list of tropes database for links to each trope. Mostly uploading this as an example of my first working scraper, something I'm sure I can convert as a template for later uses.
